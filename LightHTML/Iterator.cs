@@ -1,4 +1,4 @@
-// ІТЕРАТОР (Iterator)
+// (Iterator)
 
 interface IHtmlIterator
 {
