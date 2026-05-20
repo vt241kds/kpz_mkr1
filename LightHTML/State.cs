@@ -1,4 +1,4 @@
-// СТЕЙТ (State)
+//  (State)
 
 interface IElementState
 {
