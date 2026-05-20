@@ -1,4 +1,4 @@
-// ВІДВІДУВАЧ (Visitor)
+//  (Visitor)
 
 interface IHtmlVisitor
 {
