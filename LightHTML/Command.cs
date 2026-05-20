@@ -1,4 +1,4 @@
-// КОМАНДА (Command)
+// (Command)
 
 interface IHtmlCommand
 {
