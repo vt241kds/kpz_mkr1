@@ -1,4 +1,4 @@
-// ШАБЛОННИЙ МЕТОД (Template Method)
+// (Template Method)
 abstract class LightElementWithHooks : LightNode
 {
     public string TagName { get; }
